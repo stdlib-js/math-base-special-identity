@@ -65,7 +65,7 @@ for all `x`.
 ## Usage
 
 ```javascript
-import identity from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-identity@esm/index.mjs';
+import identity from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-identity@v0.2.0-esm/index.mjs';
 ```
 
 #### identity( x )
@@ -107,7 +107,7 @@ v = identity( NaN );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
-import identity from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-identity@esm/index.mjs';
+import identity from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-identity@v0.2.0-esm/index.mjs';
 
 var rand;
 var i;
